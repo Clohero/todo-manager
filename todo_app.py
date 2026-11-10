@@ -10,7 +10,7 @@ def ask_number():
 
 def menu():
     while True:
-        print("1. Показать дело")
+        print("1. Показать дела")
         print("2. Добавить дело")
         print("3. Удалить дело")
         print("0. Выход")
